@@ -4,7 +4,7 @@
 [![package downloads](https://img.shields.io/npm/dm/react-native-scaling-utils.svg?style=flat-square)](https://npmjs.org/package/react-native-scaling-utils)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 [![package license](https://img.shields.io/npm/l/react-native-scaling-utils.svg?style=flat-square)](https://npmjs.org/package/react-native-scaling-utils)
-[![make a pull request](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![make a pull request](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/react-native-scaling-utils.svg)](https://greenkeeper.io/)
 
 > Simple scaling utilities for React Native
 
